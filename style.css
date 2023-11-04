@@ -99,7 +99,6 @@ body {
 }
 
 .facilities-container {
-    /* margin-top: 40px; */
     width: 100%;
     
     
@@ -153,7 +152,6 @@ body {
     margin: auto;
     justify-content: space-between;
     flex-wrap: wrap;
-    /* align-items: center; */
     row-gap: 20px;
     z-index: -1;
     
@@ -239,7 +237,6 @@ body {
     
     flex-direction: column;
     width: 90%;
-    /* background-color: antiquewhite; */
     margin: auto;
     align-items: center;
 }
@@ -247,7 +244,6 @@ body {
 .f-left {
     align-items: center;
     height: 50px;
-    /* background-color: red; */
     justify-content: space-between;
     width: 100%;
 }
